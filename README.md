@@ -1,3 +1,4 @@
 # IoTNodeIoTNodeIntroduction
 IoTObjectives
 SetupGuide
+DeviceFeatures
