@@ -2,3 +2,4 @@
 IoTObjectives
 SetupGuide
 DeviceFeatures
+DependenciesList
