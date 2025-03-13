@@ -3,3 +3,4 @@ IoTObjectives
 SetupGuide
 DeviceFeatures
 DependenciesList
+CodeExamples
