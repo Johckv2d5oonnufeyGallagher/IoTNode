@@ -4,3 +4,4 @@ SetupGuide
 DeviceFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
