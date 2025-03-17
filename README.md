@@ -5,3 +5,4 @@ DeviceFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
