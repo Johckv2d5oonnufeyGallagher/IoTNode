@@ -11,3 +11,4 @@ LicenseDetails
 IoTFAQ
 Changelog
 TestingInstructions
+DevicePerformance
