@@ -12,3 +12,4 @@ IoTFAQ
 Changelog
 TestingInstructions
 DevicePerformance
+CommunityResources
